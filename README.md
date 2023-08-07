@@ -6,3 +6,5 @@ Translation contributors:
 - Erksmit (Dutch)
 - rtobby (Lithuanian and Uwuspeak)
 - jsjsj (Turkish)
+- gloriavictis (Polish)
+- Jollyann (Portugese)
