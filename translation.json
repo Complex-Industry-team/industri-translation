@@ -2,7 +2,6 @@
   "id": "$industri_translation00",
   "type": "translation",
   "*": {
-    // Draft translations
     "draft_complex_industri_maincategory_title": "Complex Industries",
     "draft_dirt_track_00_title": "Dirt track",
     "draft_dirt_track_00_text": "Compacted dirt road. Cheap, but slow to move on. Great for rural areas.",
@@ -41,7 +40,6 @@
     "draft_wood_industri_planks_warehouse_title": "Planks Warehouse",
     "draft_wood_industri_planks_warehouse_text": "Can only store Planks, but it's much more efficient than general warehouses.",
 
-    // Script translations
     "industri_resource_wood_name": "Lumber",
     "industri_resource_planks_name": "Planks",
     "industri_resource_paper_name": "Paper",
@@ -67,6 +65,7 @@
     "industri_OUTPUT_FULL_text": "All outputs of your factory are full! This is actually a good thing.",
     "industri_SUPPLY_NOT_MET_title": "Supply not met",
     "industri_SUPPLY_NOT_MET_text": "The building does not have road access, or lacks power/water.",
-    "industri_actions_panel_title": "Actions"
+    "industri_actions_panel_title": "Actions",
+    "industri_settings_draw_building_info": "Draw building info"
   }
 }]

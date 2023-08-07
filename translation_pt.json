@@ -59,7 +59,12 @@
       "industri_OUTPUT_FULL_text": "Todas as saídas de sua fábrica estão cheias! Isso é algo bom na verdade.",
       "industri_SUPPLY_NOT_MET_title": "Sem fornecimento",
       "industri_SUPPLY_NOT_MET_text": "Este edifício não tem acesso rodoviário, ou falta energia/água.",
-      "industri_actions_panel_title": "Ações"
+      "industri_actions_panel_title": "Ações",
+      "draft_master_harbour_up2_title": "Harbour expansion 1",
+      "draft_master_harbour_up2_text": "Expand the office and accomodate more powerful ports.",
+      "draft_master_harbour_up3_title": "Harbour expansion 2",
+      "draft_master_harbour_up3_text": "Expand the office and accomodate even more powerful ports.",
+      "industri_settings_draw_building_info": "Draw building info"
     }
   }
 ]

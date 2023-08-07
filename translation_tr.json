@@ -1,8 +1,8 @@
-[{
+[
+  {
     "id": "$industri_translation_tr00",
     "type": "translation",
     "tr": {
-      // Draft translations
       "draft_complex_industri_maincategory_title": "Complex Industries",
       "draft_dirt_track_00_title": "Toprak Yol",
       "draft_dirt_track_00_text": "Dar toprak yol. Ucuz ama arabalar için yavaş. Kırsal bölgeler için uygun.",
@@ -36,13 +36,10 @@
       "draft_wood_industri_wood_warehouse_text": "Sadece odun depolayabilir, ama genel depolardan daha verimlidir.",
       "draft_wood_industri_planks_warehouse_title": "Kereste Deposu",
       "draft_wood_industri_planks_warehouse_text": "Sadece kereste depolayabilir, ama genel depolardan daha verimlidir.",
-
-    // Script translations
       "industri_resource_wood_name": "Odun",
       "industri_resource_planks_name": "Kereste",
       "industri_resource_paper_name": "Kağıt",
       "industri_resource_furniture_name": "Mobilya",
-
       "industri_change_resource": "Kaynak değiştir",
       "industri_resources_stored": "Depolandı:",
       "industri_resources_in_transit": "Yolda:",
@@ -52,7 +49,6 @@
       "industri_day": "gün",
       "industri_needed_materials": "Gereken materyal: %d",
       "industri_produced_materials": "Ürünler: %d",
-
       "industri_WAREHOUSE_FULL_title": "Depo dolu",
       "industri_WAREHOUSE_FULL_text": "Bu depo doldu ve daha fazla kaynak depolayamaz.",
       "industri_NO_RESOURCE_SELECTED_title": "Kaynak seçilmedi",
@@ -63,6 +59,12 @@
       "industri_OUTPUT_FULL_text": "Fabrikanız tam kapasite üretim yapıyor! Bu oldukça iyi bir şey.",
       "industri_SUPPLY_NOT_MET_title": "Bağlantı yok",
       "industri_SUPPLY_NOT_MET_text": "Bu binanın yollar ile bağlantısı yok, ya da su veya elektrik ile.",
-      "industri_actions_panel_title": "Aksiyonlar"
+      "industri_actions_panel_title": "Aksiyonlar",
+      "draft_master_harbour_up2_title": "Harbour expansion 1",
+      "draft_master_harbour_up2_text": "Expand the office and accomodate more powerful ports.",
+      "draft_master_harbour_up3_title": "Harbour expansion 2",
+      "draft_master_harbour_up3_text": "Expand the office and accomodate even more powerful ports.",
+      "industri_settings_draw_building_info": "Draw building info"
     }
-  }]
+  }
+]
