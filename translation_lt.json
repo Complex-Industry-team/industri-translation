@@ -60,11 +60,11 @@
       "industri_SUPPLY_NOT_MET_title": "Tiekimo trūkumas",
       "industri_SUPPLY_NOT_MET_text": "Šiam pastatui trūksta prieigos prie kelio, vandens arba elektros energijos.",
       "industri_actions_panel_title": "Veiksmai",
-      "draft_master_harbour_up2_title": "Harbour expansion 1",
-      "draft_master_harbour_up2_text": "Expand the office and accomodate more powerful ports.",
-      "draft_master_harbour_up3_title": "Harbour expansion 2",
-      "draft_master_harbour_up3_text": "Expand the office and accomodate even more powerful ports.",
-      "industri_settings_draw_building_info": "Draw building info"
+      "draft_master_harbour_up2_title": "Uosto plėtra 1",
+      "draft_master_harbour_up2_text": "Išplėsk ofisą ir statyk galingesnį uostą.",
+      "draft_master_harbour_up3_title": "Uosto plėtra 2",
+      "draft_master_harbour_up3_text": "Išplėsk ofisą ir statyk dar galingesnį uostą.",
+      "industri_settings_draw_building_info": "Rodytį statinių informaciją"
     }
   }
 ]
