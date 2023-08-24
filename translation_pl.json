@@ -2,7 +2,7 @@
   {
     "id": "$industri_translation_pl00",
     "type": "translation",
-    "*": {
+    "pl": {
       "draft_complex_industri_maincategory_title": "Complex Industries",
       "draft_dirt_track_00_title": "Droga Gruntowa",
       "draft_dirt_track_00_text": "Ubita droga gruntowa. Tania, ale wolno się po niej porusza. Świetne rozwiązanie dla obszarów wiejskich.",
