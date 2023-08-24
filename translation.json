@@ -66,6 +66,10 @@
     "industri_SUPPLY_NOT_MET_title": "Supply not met",
     "industri_SUPPLY_NOT_MET_text": "The building does not have road access, or lacks power/water.",
     "industri_actions_panel_title": "Actions",
-    "industri_settings_draw_info": "Draw building info"
+    
+    "industri_settings_draw_info": "Draw building info",
+    "industri_settings_draw_info_overlay": "Overlay",
+    "industri_settings_draw_info_hidden": "Hidden",
+    "industri_settings_draw_info_problems": "Problems"
   }
 }]

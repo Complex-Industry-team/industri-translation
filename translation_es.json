@@ -1,5 +1,7 @@
 [
   {
+    "id": "$industri_translation_es00",
+    "type": "translation",
     "es": {
       "draft_complex_industri_maincategory_title": "Complex Industries",
       "draft_complex_industri_portTerrain_text": "Algunos terrenos para decorar el suelo y los muelles de tu puerto",
@@ -62,9 +64,10 @@
       "industri_resources_in_transit": "En tránsito:",
       "industri_resources_stored": "Almacenado:",
       "industri_select_resource_title": "Seleccione un recurso",
-      "industri_settings_draw_info": "Dibujar información del edificio"
-    },
-    "id": "$industri_translation_es00",
-    "type": "translation"
+      "industri_settings_draw_info": "Dibujar información del edificio",
+      "industri_settings_draw_info_overlay": "Overlay",
+      "industri_settings_draw_info_hidden": "Hidden",
+      "industri_settings_draw_info_problems": "Problems"
+    }
   }
 ]

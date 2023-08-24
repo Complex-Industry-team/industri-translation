@@ -64,7 +64,10 @@
       "draft_master_harbour_up2_text": "Expand the office and accomodate more powerful ports.",
       "draft_master_harbour_up3_title": "Harbour expansion 2",
       "draft_master_harbour_up3_text": "Expand the office and accomodate even more powerful ports.",
-      "industri_settings_draw_info": "Draw building info"
+      "industri_settings_draw_info": "Draw building info",
+      "industri_settings_draw_info_overlay": "Overlay",
+      "industri_settings_draw_info_hidden": "Hidden",
+      "industri_settings_draw_info_problems": "Problems"
     }
   }
 ]
