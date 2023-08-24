@@ -10,4 +10,4 @@ Translation contributors:
 - Jollyann (Portugese)
 - Whitegrudov (Ukranian)
 - Kamikazi (Spanish)
-- Nockiest (Czech)
+- Ondřej Lukeš (Czech)
