@@ -8,5 +8,6 @@ Translation contributors:
 - jsjsj (Turkish)
 - gloriavictis (Polish)
 - Jollyann (Portugese)
+- Whitegrudov (Ukranian)
 - Kamikazi (Spanish)
 - Nockiest (Czech)
