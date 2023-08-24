@@ -66,6 +66,6 @@
       "industri_SUPPLY_NOT_MET_title": "Попит не виконаний",
       "industri_SUPPLY_NOT_MET_text": "Будівля не має під'їзду до дороги або не має електроживлення/води.",
       "industri_actions_panel_title": "Дії",
-      "industri_settings_draw_building_info": "Показати інформацію про будівлю"
+      "industri_settings_draw_info": "Показати інформацію про будівлю"
     }
   }]

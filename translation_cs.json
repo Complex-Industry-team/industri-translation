@@ -66,6 +66,6 @@
     "industri_OUTPUT_FULL_text": "Všechny výstup z továrny jsou plné. Tak to má být",
     "industri_SUPPLY_NOT_MET_text": "Budova nemá silniční spojení nebo jí chybí přísun vody/elektřiny",
     "industri_actions_panel_title": "Činnosti",
-    "industri_settings_draw_building_info": "Vykresli informace o budově"
+    "industri_settings_draw_info": "Vykresli informace o budově"
   }
 }]

@@ -62,7 +62,7 @@
       "industri_resources_in_transit": "En tránsito:",
       "industri_resources_stored": "Almacenado:",
       "industri_select_resource_title": "Seleccione un recurso",
-      "industri_settings_draw_building_info": "Dibujar información del edificio"
+      "industri_settings_draw_info": "Dibujar información del edificio"
     },
     "id": "$industri_translation00",
     "type": "translation"
