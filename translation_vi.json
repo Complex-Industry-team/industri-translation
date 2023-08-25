@@ -1,7 +1,7 @@
 [{
-  "id": "$industri_translation00",
+  "id": "$industri_translation_vi00",
   "type": "translation",
-  "vn": {
+  "vi": {
     "draft_complex_industri_maincategory_title": "Complex Industries",
     "draft_dirt_track_00_title": "Đường đất",
     "draft_dirt_track_00_text": "Chí phí xây dựng rẻ, nhưng chậm. Phù hợp cho vùng nông thôn.",
