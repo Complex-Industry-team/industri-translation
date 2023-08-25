@@ -11,4 +11,5 @@ Translation contributors:
 - Whitegrudov (Ukranian)
 - Kamikazi (Spanish)
 - Ondřej Lukeš (Czech)
+- The Leaf (Vietnamese)
 - Yakka (Indonesian)
