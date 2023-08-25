@@ -12,3 +12,4 @@ Translation contributors:
 - Kamikazi (Spanish)
 - Ondřej Lukeš (Czech)
 - The Leaf (Vietnamese)
+- Yakka (Indonesian)
