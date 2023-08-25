@@ -1,7 +1,7 @@
 [{
-  "id": "$industri_translation00",
+  "id": "$industri_translation_in00",
   "type": "translation",
-  "id": {
+  "in": {
     "draft_complex_industri_maincategory_title": "Industri kompleks",
     "draft_dirt_track_00_title": "Jalan tanah",
     "draft_dirt_track_00_text": "Jalan tanah yang murah, tapi lambat untuk kendaraan.  Bagus untuk daerah pedesaan.",
