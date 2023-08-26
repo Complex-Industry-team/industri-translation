@@ -15,7 +15,7 @@
       "draft_master_harbour_up1_text": "Побудуйте, аби почати розвивати гавань у вашому місті.",
       "draft_master_harbour_up2_title": "Розширення порту 1",
       "draft_master_harbour_up2_text": "Розширте офіс і будуйте більш потужні порти.",
-      "draft_master_harbour_up3_title": "Розширення порту 1",
+      "draft_master_harbour_up3_title": "Розширення порту 2",
       "draft_master_harbour_up3_text": "Розширте офіс і будуйте ще потужніші порти.",
       "draft_wood_industri_wood_port_title": "Лісоперелавочний порт",
       "draft_wood_industri_wood_port_text": "Використовується для імпорту пиломатеріалів з інших країн. Це дорожче, але надає пиломатеріали швидше.",
@@ -49,7 +49,7 @@
       "industri_resources_in_transit": "У дорозі:",
       "industri_empty_space": "Доступно:",
       "industri_select_resource_title": "Оберіть ресурс",
-      "industri_factory_uses_nothing": "Використовує нічого",
+      "industri_factory_uses_nothing": "Нічого не використовує",
       "industri_day": "день",
       "industri_needed_materials": "Потрібно матеріалів: %d",
       "industri_produced_materials": "Продукти: %d",
@@ -61,13 +61,13 @@
       "industri_INPUT_EMPTY_text": "Щонайменше один вхід цієї фабрики не має достатнього ресурсу для функціонування.",
       "industri_OUTPUT_FULL_title": "Вихід заповнений",
       "industri_OUTPUT_FULL_text": "Всі виходи вашої фабрики заповнені! Насправді, це добре.",
-      "industri_SUPPLY_NOT_MET_title": "Попит не виконаний",
+      "industri_SUPPLY_NOT_MET_title": "Попит не виконано",
       "industri_SUPPLY_NOT_MET_text": "Будівля не має під'їзду до дороги або не має електроживлення/води.",
       "industri_actions_panel_title": "Дії",
       "industri_settings_draw_info": "Показати інформацію про будівлю",
-      "industri_settings_draw_info_overlay": "Overlay",
-      "industri_settings_draw_info_hidden": "Hidden",
-      "industri_settings_draw_info_problems": "Problems"
+      "industri_settings_draw_info_overlay": "Оверлей",
+      "industri_settings_draw_info_hidden": "Сховано",
+      "industri_settings_draw_info_problems": "Проблеми"
     }
   }
 ]
