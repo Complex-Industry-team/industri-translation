@@ -3,11 +3,11 @@
     "id": "$industri_translation_nl00",
     "type": "translation",
     "nl": {
-      "draft_complex_industri_maincategory_title": "Complex Industries",
+      "draft_complex_industri_maincategory_title": "Complexe Industrie",
       "draft_dirt_track_00_title": "Onverharde weg",
       "draft_dirt_track_00_text": "Een bandenspoor op de grond. Heel goedkoop, maar voertuigen rijden er niet snel overheen.",
       "draft_complex_industri_portcategory_title": "Havens",
-      "draft_industry_budget00_title": "Complex industry",
+      "draft_industry_budget00_title": "Complexe Industrie",
       "draft_wood_industri_category_title": "Houtindustrie",
       "draft_complex_industri_portTerrain_title": "Industriële haven",
       "draft_complex_industri_portTerrain_text": "Een group decoratieve tegels om je haven te versieren",
@@ -65,7 +65,7 @@
       "industri_SUPPLY_NOT_MET_text": "Dit gebouw heeft geen wegverbinding, of het mist water of stroom.",
       "industri_actions_panel_title": "Acties",
       "industri_settings_draw_info": "Toon extra informatie",
-      "industri_settings_draw_info_overlay": "Overlay",
+      "industri_settings_draw_info_overlay": "Uitgebreid",
       "industri_settings_draw_info_hidden": "Geen",
       "industri_settings_draw_info_problems": "Problemen"
     }
