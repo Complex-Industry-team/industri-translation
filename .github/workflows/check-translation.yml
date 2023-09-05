@@ -1,0 +1,10 @@
+name: 'Check translation completeness'
+on: [push, pull_request]
+
+jobs:
+  check-translations:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: erksmit/CI-fill-translations@latest
