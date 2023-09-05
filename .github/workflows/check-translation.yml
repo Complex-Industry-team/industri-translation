@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: erksmit/CI-fill-translations@latest
+      - uses: erksmit/CI-fill-translations@main
