@@ -39,11 +39,14 @@
     "draft_wood_industri_wood_warehouse_text": "Can only store Lumber, but it's much more efficient than general warehouses.",
     "draft_wood_industri_planks_warehouse_title": "Planks Warehouse",
     "draft_wood_industri_planks_warehouse_text": "Can only store Planks, but it's much more efficient than general warehouses.",
+    "draft_wood_industri_printingpress_title": "Printing press",
+    "draft_wood_industri_printingpress_text": "Uses Paper to print Books and Press.",
 
     "industri_resource_wood_name": "Lumber",
     "industri_resource_planks_name": "Planks",
     "industri_resource_paper_name": "Paper",
     "industri_resource_furniture_name": "Furniture",
+    "industri_resource_books_name": "Books",
 
     "industri_change_resource": "Change resource",
     "industri_resources_stored": "Stored:",
