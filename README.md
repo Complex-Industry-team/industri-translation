@@ -22,7 +22,7 @@ You should make sure you:
 - Erksmit (Dutch)
 - rtobby (Lithuanian and Uwuspeak)
 - jsjsj (Turkish)
-- gloriavictis (Polish)
+- TheGabriel3556 (Polish)
 - Jollyann (Portugese)
 - Whitegrudov (Ukranian)
 - Kamikazi (Spanish)
