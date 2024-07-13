@@ -22,6 +22,6 @@ jobs:
       
       - uses: amousavigourabi/push-action@v0
         with:
-          message: [skip ci] update translation-status.svg
+          message: "[skip ci] update translation-status.svg"
           branch: translation-status
           files: 'translation-status.svg'
