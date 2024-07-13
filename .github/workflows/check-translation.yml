@@ -10,3 +10,18 @@ jobs:
       - uses: Complex-Industry-team/check-translations-ts@main
         with: 
           ignored-keys: draft_complex_industri_maincategory_title draft_industry_budget00_title
+
+      - uses: actions/checkout@v4
+        with:
+          repository: Complex-Industry-team.github.io
+          path: 'complex-pages'
+
+      - name: Upload to github pages
+        run: |
+          mv -f translation-status.svg complex-pages/translation-status.svg
+          cd complex-pages
+          git config --unset-all http.https://github.com/.extraheader
+          git config user.name "CI translations Bot"
+          git add translation-status.svg
+          git commit -m "update translation-status.svg"
+          git push
