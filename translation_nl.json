@@ -67,9 +67,9 @@
       "industri_settings_draw_info": "Toon extra informatie",
       "industri_settings_draw_info_overlay": "Uitgebreid",
       "industri_settings_draw_info_hidden": "Geen",
-      "draft_wood_industri_printingpress_title": "Printing press",
-      "draft_wood_industri_printingpress_text": "Uses Paper to print Books and Press.",
-      "industri_resource_books_name": "Books"
+      "draft_wood_industri_printingpress_title": "Drukhuis",
+      "draft_wood_industri_printingpress_text": "Gebruikt papier om boeken te drukken.",
+      "industri_resource_books_name": "Boeken"
     }
   }
 ]
