@@ -67,7 +67,9 @@
       "industri_settings_draw_info": "Показати інформацію про будівлю",
       "industri_settings_draw_info_overlay": "Оверлей",
       "industri_settings_draw_info_hidden": "Сховано",
-      "industri_settings_draw_info_problems": "Проблеми"
+      "draft_wood_industri_printingpress_title": "Printing press",
+      "draft_wood_industri_printingpress_text": "Uses Paper to print Books and Press.",
+      "industri_resource_books_name": "Books"
     }
   }
 ]

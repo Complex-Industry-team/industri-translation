@@ -67,7 +67,9 @@
       "industri_settings_draw_info": "dwaw buiwding info",
       "industri_settings_draw_info_overlay": "Overlay",
       "industri_settings_draw_info_hidden": "Hidden",
-      "industri_settings_draw_info_problems": "Problems"
+      "draft_wood_industri_printingpress_title": "Printing press",
+      "draft_wood_industri_printingpress_text": "Uses Paper to print Books and Press.",
+      "industri_resource_books_name": "Books"
     }
   }
 ]

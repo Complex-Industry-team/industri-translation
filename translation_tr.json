@@ -67,7 +67,9 @@
       "industri_settings_draw_info": "Bina bilgisi çiziliyor",
       "industri_settings_draw_info_overlay": "Üstüne yazılıyor",
       "industri_settings_draw_info_hidden": "Saklı",
-      "industri_settings_draw_info_problems": "Problemler"
+      "draft_wood_industri_printingpress_title": "Printing press",
+      "draft_wood_industri_printingpress_text": "Uses Paper to print Books and Press.",
+      "industri_resource_books_name": "Books"
     }
   }
 ]
