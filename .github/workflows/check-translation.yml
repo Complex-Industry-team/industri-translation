@@ -1,5 +1,9 @@
 name: 'Check translation completeness'
-on: [push, pull_request]
+on: 
+  push: 
+    branches:
+      - '*'
+      - '!translation-status'
 
 jobs:
   check-translations:
@@ -15,13 +19,9 @@ jobs:
         with:
           repository: Complex-Industry-team/Complex-Industry-team.github.io
           path: 'complex-pages'
-
-      - name: Upload to github pages
-        run: |
-          mv -f translation-status.svg complex-pages/translation-status.svg
-          cd complex-pages
-          git config --unset-all http.https://github.com/.extraheader
-          git config user.name "CI translations Bot"
-          git add translation-status.svg
-          git commit -m "update translation-status.svg"
-          git push
+      
+      - uses: amousavigourabi/push-action@v0
+        with:
+          message: [skip ci] update translation-status.svg
+          branch: translation-status
+          files: 'translation-status.svg'
