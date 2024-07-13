@@ -3,7 +3,6 @@ on:
   push: 
     branches:
       - '*'
-      - '!translation-status'
 permissions: write-all
 
 jobs:
@@ -15,14 +14,3 @@ jobs:
       - uses: Complex-Industry-team/check-translations-ts@main
         with: 
           ignored-keys: draft_complex_industri_maincategory_title draft_industry_budget00_title
-
-      - uses: actions/checkout@v4
-        with:
-          repository: Complex-Industry-team/Complex-Industry-team.github.io
-          path: 'complex-pages'
-      
-      - uses: amousavigourabi/push-action@v0
-        with:
-          message: "[skip ci] update translation-status.svg"
-          branch: translation-status
-          files: 'translation-status.svg'
