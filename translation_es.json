@@ -66,10 +66,10 @@
       "industri_select_resource_title": "Seleccione un recurso",
       "industri_settings_draw_info": "Dibujar información del edificio",
       "industri_settings_draw_info_overlay": "Overlay",
-      "industri_settings_draw_info_hidden": "Hidden",
-      "draft_wood_industri_printingpress_title": "Printing press",
-      "draft_wood_industri_printingpress_text": "Uses Paper to print Books and Press.",
-      "industri_resource_books_name": "Books"
+      "industri_settings_draw_info_hidden": "Oculto",
+      "draft_wood_industri_printingpress_title": "Imprenta",
+      "draft_wood_industri_printingpress_text": "Utiliza papel para imprimir Libros y Prensa.",
+      "industri_resource_books_name": "Libros"
     }
   }
 ]
