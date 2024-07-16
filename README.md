@@ -28,4 +28,5 @@ You should make sure you:
 - Kamikazi (Spanish)
 - Ondřej Lukeš (Czech)
 - The Leaf (Vietnamese)
+- -Z- (Vietnamese)
 - Yakka (Indonesian)
